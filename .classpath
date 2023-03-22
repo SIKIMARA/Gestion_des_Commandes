@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/eclipseLink">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+			<attribute name="owner.project.facets" value="jpt.jpa"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/RYZEN 5/Desktop/jars/eclipselink.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RYZEN 5/Desktop/jars/javax.persistence.source_2.1.0.v201304241213.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RYZEN 5/Desktop/jars/javax.persistence_2.1.0.v201304241213.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RYZEN 5/Desktop/jars/javax.servlet.jsp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RYZEN 5/Desktop/jars/javax.servlet.jsp-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RYZEN 5/Desktop/jars/mysql-connector-j-8.0.32.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RYZEN 5/Desktop/jars/mysql-connector-java-5.1.15-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RYZEN 5/Desktop/jars/org.eclipse.persistence.jpa.modelgen.source_2.5.2.v20140319-9ad6abd.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RYZEN 5/Desktop/jars/org.eclipse.persistence.jpa.modelgen_2.5.2.v20140319-9ad6abd.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RYZEN 5/Desktop/jars/org.eclipse.persistence.jpars.source_2.5.2.v20140319-9ad6abd.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RYZEN 5/Desktop/jars/org.eclipse.persistence.jpars_2.5.2.v20140319-9ad6abd.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RYZEN 5/Desktop/jars/taglibs-standard-impl-1.2.5-migrated-0.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RYZEN 5/Desktop/jars/taglibs-standard-spec-1.2.5-migrated-0.0.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
